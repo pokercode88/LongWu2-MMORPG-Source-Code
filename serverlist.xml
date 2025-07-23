@@ -1,0 +1,14 @@
+<Services ver="0" wid="3001">
+	<District name="ÍâÍø²âÊÔÇø" index="1">
+		<Server id="1" name="ÍâÍø²âÊÔ£¨°²×¿£©" desc="²âÊÔ£¨°²×¿£©" announce="" mainten="" maintenUrl="" state="0" latency="36" recommend="40005" partnerLimit="">
+			<Mirror ip="125.88.151.40" port="8080" />
+			<Mirror ip="125.88.151.40" port="8081" />
+		</Server>
+	</District>
+	<District name="ÍâÍø²âÊÔÇø" index="1">
+		<Server id="1" name="ÍâÍø²âÊÔ£¨°²×¿£©" desc="²âÊÔ£¨°²×¿£©" announce="" mainten="" maintenUrl="" state="0" latency="36" recommend="40005" partnerLimit="">
+			<Mirror ip="125.88.151.40" port="8080" />
+			<Mirror ip="125.88.151.40" port="8081" />
+		</Server>
+	</District>
+</Services>

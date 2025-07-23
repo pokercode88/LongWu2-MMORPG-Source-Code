@@ -1,0 +1,13 @@
+{
+	"entry":
+	{
+		"serverlist":"https://172.16.0.43/game/g_serverlist.json",
+		"serverlist_bak":"https://172.16.0.43/game/g_serverlist.json",
+		"announcement":"",
+		"announcement_bak":"",
+		"game_entry":"https://172.16.0.43/",
+		"game_entry_bak":"https://172.16.0.43/",
+		"update_entry":"https://172.16.0.43/",
+		"update_entry_bak":"https://172.16.0.43/"
+	}
+}
